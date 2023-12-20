@@ -1,1 +1,8 @@
 The default LAN IP of RT-AX58U is 192.168.50.1.
+
+__ Som v branchi DEVVELOP __
+
+poznamky:
+1
+2
+3
