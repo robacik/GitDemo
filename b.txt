@@ -1,1 +1,9 @@
 test GUI GITtortila SW
+
+added
+
+c
+d
+f
+
+simulacia konfliktu
